@@ -1,7 +1,60 @@
 # gemini ai app code
 
+## flutter code guy
+maximilian schwarzmuller
+https://maximilian-schwarzmueller.com/
+
+https://www.udemy.com/user/maximilian-schwarzmuller/
+
 ## dummy api app
 https://reqres.in
+
+## dart sdk
+https://dart.dev/get-dart
+(macOS)
+brew tap dart-lang/dart
+brew install dart
+
+brew info dart
+
+PATH
+Verify PATH includes Homebrew
+#
+Verify that your PATH includes the Homebrew bin directory. Setting up the correct path simplifies using Dart SDK commands such as dart run and dart format.
+
+To get help configuring your PATH, consult the Homebrew FAQ.
+
+for android studio, use the following folder->
+/usr/local/opt/dart/libexec
+
+Installed
+/usr/local/Cellar/dart-sdk/3.10.9
+
+(macOS)
+(ensure flutter installed and $PATH configured)
+
+brew info flutter
+
+/Users/markrobinson/Documents/flutter/bin/cache/dart-sdk
+
+## commands
+Project
+build       Build a Dart application including code assets.
+compile     Compile Dart to various formats.
+create      Create a new Dart project.
+pub         Work with packages.
+run         Run a Dart program.
+test        Run tests for a project.
+
+Source code
+analyze     Analyze Dart code in a directory.
+doc         Generate API documentation for Dart projects.
+fix         Apply automated fixes to Dart source code.
+format      Idiomatically format Dart source code.
+
+Tools
+devtools    Open DevTools (optionally connecting to an existing application).
+info        Show diagnostic information about the installed tooling.
 
 ## Install dependencies:**
     Fetch the necessary Flutter packages.
