@@ -32,13 +32,33 @@ Installed
 
 (macOS)
 (ensure flutter installed and $PATH configured)
+brew install flutter
 
 brew info flutter
 
 /Users/markrobinson/Documents/flutter/bin/cache/dart-sdk
 
-## commands
-Project
+## flutter commands
+add         Add a dependency to pubspec.yaml.
+cache       Work with the Pub system cache.
+deps        Print package dependencies.
+downgrade   Downgrade packages in a Flutter project.
+get         Get the current package's dependencies.
+global      Work with Pub global packages.
+login       Log into pub.dev.
+logout      Log out of pub.dev.
+outdated    Analyze dependencies to find which ones can be upgraded.
+pub         Pass the remaining arguments to Dart's "pub" tool.
+publish     Publish the current package to pub.dartlang.org.
+remove      Removes a dependency from the current package.
+run         Run an executable from a package.
+test        Run the "test" package.
+token       Manage authentication tokens for hosted pub repositories.
+upgrade     Upgrade the current package's dependencies to latest versions.
+uploader    Manage uploaders for a package on pub.dev.
+version     Print Pub version.
+
+## dart commands
 build       Build a Dart application including code assets.
 compile     Compile Dart to various formats.
 create      Create a new Dart project.
