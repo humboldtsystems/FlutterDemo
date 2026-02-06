@@ -1,0 +1,69 @@
+# Miscellaneous
+.DS_Store
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea
+.metadata
+.packages
+.vscode
+Generated.xcconfig
+build/
+*.iml
+*.lock
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Flutter/Dart related
+.dart_tool/
+.env/
+.fvm/
+
+# Android-specific
+android/app/src/debug/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/*.iml
+
+# iOS-specific
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Pods/
+ios/.build/
+
+# IDE-specific
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Package manager files
+pubspec.lock
+
+# Crashlytics and other plugins
+crashlytics/
+flutter_embedding_debug.log
+
+# Keystores (if any)
+*.keystore
+*key.jks
+
+# Your product's build files
+# This is usually specific to your project, so add as needed.
+# For example, if your app creates an APK or IPA:
+# *.apk
+# *.ipa
+
+# Temp files
+*~
+#*#
+#.bin/
+.temp/
+.history/
