@@ -38,6 +38,10 @@ brew info flutter
 
 /Users/markrobinson/Documents/flutter/bin/cache/dart-sdk
 
+OR
+
+https://docs.flutter.dev/install/manual
+
 ## flutter commands
 add         Add a dependency to pubspec.yaml.
 cache       Work with the Pub system cache.
